@@ -12,7 +12,7 @@ Hi, I’m @TweetTweet777
 - Discord: ToucanMan#8033
 - Gmail:   TweetTweetMaxximo@gmail.com
 
-Code Inspiration and Database:
+Code Inspiration and Database (totally not copied off these websites lmao):
 - https://stackoverflow.com/
 - https://stackexchange.com/
 
