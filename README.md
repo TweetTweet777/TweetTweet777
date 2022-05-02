@@ -10,6 +10,7 @@ Hi, I’m @TweetTweet777
 
 📫 How to reach me:
 - Discord: ToucanMan#8033
+- Gmail:   TweetTweetMaxximo@gmail.com
 
 <!---
 TweetTweet777/TweetTweet777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
