@@ -4,7 +4,7 @@ Hi, I’m @TweetTweet777
 
 👀 I’m interested in you
 
-🌱 I’m currently learning Javascript, Basic, C++ and Python
+🌱 I’m currently learning Javascript, QBasic, C++ and Python
 
 💞️ I’m looking to collaborate on projects
 
